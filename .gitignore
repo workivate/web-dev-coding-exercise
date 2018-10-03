@@ -1,0 +1,10 @@
+dist
+node_modules
+tmp
+.DS_Store
+.idea
+.project
+.sass-cache
+.settings
+.tmp
+*.log
