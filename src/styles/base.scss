@@ -1,0 +1,14 @@
+@import '_colors';
+@import '_fonts';
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: $color-grey;
+  color: $color-black;
+  font: 16px/1.5 Lifeworks, sans-serif;
+}
